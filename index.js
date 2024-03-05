@@ -1,6 +1,6 @@
 const count = require('text-count');
 
-function teh() {
+function crapup() {
   const text = "T E H"
   return {
     text,
@@ -9,4 +9,4 @@ function teh() {
 }
 
 
-module.exports = Teh
+module.exports = crapup
