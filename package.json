@@ -1,0 +1,21 @@
+{
+  "name": "teh",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/crapup23",
+  "repository": {
+    "url": "https://github.com/crapup/teh.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crapup"
+  ],
+  "author": "crapup",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
